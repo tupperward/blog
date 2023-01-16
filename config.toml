@@ -1,4 +1,4 @@
-baseURL = 'http://tupperward.net'
+baseURL = 'tupperward.net'
 languageCode = 'en-us'
 title = "Central Ohio's Worst Wizard"
 theme = 'ficturina'
