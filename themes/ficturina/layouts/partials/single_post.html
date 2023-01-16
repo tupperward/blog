@@ -17,7 +17,7 @@
             {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
                 <img src="{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
             {{ else }}
-                <img src="{{ .Permalink }}/{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
+                <img src="{{ .RelPermalink }}/{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
             {{ end }}
             {{ if .Params.ImageCaption }}
                 <figcaption>
