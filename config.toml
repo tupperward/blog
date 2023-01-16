@@ -1,0 +1,24 @@
+baseURL = 'http://tupperward.net'
+languageCode = 'en-us'
+title = "Central Ohio's Worst Wizard"
+theme = 'ficturina'
+copyright = "use whatever you want dude just go for it"
+paginate = 8
+summaryLength = 70
+[params]
+description = "he/him | kubernetes, games, birds, models, licorice, oats | interested in distributed systems of all types | The heart is a muscle the size of your fist"
+author = "Ward Alexander"
+enableShareOnFediverse = true
+commento = "https://example.com/js/commento.js"
+logo = '/pfp.png'
+svgicon = "/mage.png"
+[[menu.icons]]
+  identifier = "mastodon"
+  name = "Mastodon"
+  url = "https://hachyderm.io/@tupperward"
+  weight = 10
+[[menu.icons]]
+  identifier = 'github'
+  name = "repcal"
+  url = "https://repcal.tupperward.net"
+  weight = 30
