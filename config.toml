@@ -10,8 +10,9 @@ description = "he/him | kubernetes, games, birds, models, licorice, oats | inter
 author = "Ward Alexander"
 enableShareOnFediverse = true
 commento = "https://example.com/js/commento.js"
-logo = '/pfp.png'
+logo = '/mage.png'
 svgicon = "/mage.png"
+featured = "true"
 [[menu.icons]]
   identifier = "mastodon"
   name = "Mastodon"

@@ -16,7 +16,7 @@
             {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
                 {{ $image = .Params.Image }}
             {{ else }}
-                {{ $image = print .Permalink "/" .Params.Image }}
+                {{ $image = print .RelPermalink "/" .Params.Image }}
             {{ end }}
         {{ end }}
         {{ $mscratch.Add "articles" (dict
@@ -24,7 +24,7 @@
             "date" (.Date.Format "2006-01-02")
             "tags" (sort (or .Params.tags slice))
             "summary" (or .Params.description .Summary)
-            "link" .Permalink
+            "link" .RelPermalink
             "image" $image
             "imageAlt" (or .Params.Alt "")) }}
     {{ end }}

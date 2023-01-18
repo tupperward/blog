@@ -2,7 +2,7 @@
 <meta property="twitter:domain"
       content='{{ trim (trim .Site.BaseURL "http://") "https://" }}'
 />
-<meta property="twitter:url" content="{{ .Permalink | absURL }}" />
+<meta property="twitter:url" content="{{ .RelPermalink | absURL }}" />
 
 {{ if .IsPage }}
     <meta name="twitter:title" content="{{ .Title }}" />
@@ -12,7 +12,7 @@
         {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
             {{ $image = .Params.Image }}
         {{ else }}
-            {{ $image = print .Permalink "/" .Params.Image }}
+            {{ $image = print .RelPermalink "/" .Params.Image }}
         {{ end }}
     {{ end }}
     <meta name="twitter:image"

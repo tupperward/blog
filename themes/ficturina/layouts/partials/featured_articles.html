@@ -5,10 +5,10 @@
         {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
             {{ $image = .Params.Image }}
         {{ else }}
-            {{ $image = print .Permalink "/" .Params.Image }}
+            {{ $image = print .RelPermalink "/" .Params.Image }}
         {{ end }}
     {{ end }}
-    <a class="featuredCardLink" href="{{ .Permalink }}">
+    <a class="featuredCardLink" href="{{ .RelPermalink }}">
         <article class="featuredCard"
             style="
                 background-image: linear-gradient(to bottom,

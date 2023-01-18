@@ -4,7 +4,7 @@
             where (
                 where site.RegularPages "Params.tags" "!=" nil
             ) "Params.tags" "intersect" .Params.tags
-        ) "Permalink" "ne" .Permalink
+        ) "Permalink" "ne" .RelPermalink
     }}
     {{ if $postsList }}
         {{ if site.Params.randomRelated | default false }}

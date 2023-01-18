@@ -14,13 +14,13 @@
             <meta property="article:tag" content="{{ . }}" />
         {{ end }}
     {{ end }}
-    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:url" content="{{ .RelPermalink }}" />
     {{ $image := .Site.Params.icon512 | default "/img/icon.svg" }}
     {{ if .Params.Image }}
         {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
             {{ $image = .Params.Image }}
         {{ else }}
-            {{ $image = print .Permalink "/" .Params.Image }}
+            {{ $image = print .RelPermalink "/" .Params.Image }}
         {{ end }}
     {{ end }}
     <meta property="og:image"

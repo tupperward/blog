@@ -1,5 +1,5 @@
 ---
-title: "Reintroducdtion - Less Incoherent Rambling"
+title: "Reintroduction - Less Incoherent Rambling"
 date: 2023-01-18T03:02:51-05:00
 tags:
   - introduction

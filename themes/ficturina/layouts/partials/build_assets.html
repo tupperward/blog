@@ -6,5 +6,5 @@
 {{ if .IsHome }}
     {{ $feed_style_xsl_template := resources.Get "feed_style.xsl" }}
     {{ $feed_style_xsl := $feed_style_xsl_template | resources.ExecuteAsTemplate "feed_style.xsl" . }}
-    {{ $noop := $feed_style_xsl.Permalink }}
+    {{ $noop := $feed_style_xsl.RelPermalink }}
 {{ end }}

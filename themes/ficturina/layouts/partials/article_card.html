@@ -1,7 +1,7 @@
 <article class="card postlistitem">
     <div>
         <h2>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </h2>
         <p class="date">
             <span title='{{ i18n "date" }}'> </span>
@@ -16,11 +16,11 @@
         </p>
         {{ if .Site.Params.imageInArticlePreview }}
             {{ if .Params.Image }}
-                <a class="unstyledLink" href="{{ .Permalink }}">
+                <a class="unstyledLink" href="{{ .RelPermalink }}">
                     {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
                         <img src="{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
                     {{ else }}
-                        <img src="{{ .Permalink }}/{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
+                        <img src="{{ .RelPermalink }}/{{ .Params.Image }}" alt="{{ .Params.Alt }}" />
                     {{ end }}
                 </a>
             {{ end }}
