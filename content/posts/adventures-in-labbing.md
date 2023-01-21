@@ -1,5 +1,5 @@
 ---
-title: "Adventures in Labbing"
+title: "Adventures in Labbing: Part 1"
 date: 2023-01-20T23:43:25-05:00
 tags:
   - kubernetes
@@ -8,6 +8,7 @@ tags:
   - ssl
   - scrappernetes
   - oceanetes
+  - adventures in labbing
 image:
 comments: true
 ---
@@ -94,7 +95,7 @@ Throw 'em a fake and a finagle they'll never know you're just a bagel
 
 `kubectl create -f staging-issuer`
 
-Razzle dazzle 'em and they'll beg you for moooooooooore!
+Razzle dazzle 'em and they'll beg you for moooooooooore![^link]
 
 ## Mr. Cellophane Is Objectively Better
 
@@ -166,3 +167,5 @@ prod-repcal-tls   True    prod-repcal-tls   61s
 ```
 
 And Bob's yer@email.biz your site has a cert!
+
+[^link]: [For Your Convenience](https://youtu.be/ByeXMGqapnU)
