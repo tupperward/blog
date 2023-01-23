@@ -68,7 +68,7 @@ spec:
 
 Give 'em the ol' flim-flam flummox, Fool and fracture 'em.
 
-`kubectl create -f staging-issuer`
+`kubectl create -f staging-issuer.yaml`
 
 How can they hear the truth above the roar? (roar, roar, roar)
 
@@ -93,13 +93,13 @@ spec:
 
 Throw 'em a fake and a finagle they'll never know you're just a bagel
 
-`kubectl create -f staging-issuer`
+`kubectl create -f prod-issuer.yaml`
 
 Razzle dazzle 'em and they'll beg you for moooooooooore![^link]
 
 ## Mr. Cellophane Is Objectively Better
 
-Ok, so now we have a staging-issuer and a cluster-issuer. These will manage our certificate requests as we set up our ingress. We set up two so we don't ping our domain accidentally by fucking up too much at first. Once we know the cert is being applied we can just swap over to the prod-issuer and get the for-real one.
+Ok, so now we have a staging-issuer and a prod-issuer. Both of these are ClusterIssuer resources, so any project you call out with these on your cluster will get their requested certs. These ClusterIssuers will manage our certificate requests as we set up our ingresses. We set up two different Issuers so we don't ping the production ACME url too many times and get our domain blocked. Once we know the cert is being applied we can just swap over to the prod-issuer and get the for-real one, but to start it's always best to go with staging.
 
 Here's what my [repcal](https://repcal.tupperward.net) site's Ingress resource looks like. Note the annotation and TLS sections.
 

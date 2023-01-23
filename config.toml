@@ -9,10 +9,10 @@ summaryLength = 70
 description = "he/him | kubernetes, games, birds, models, licorice, oats | interested in distributed systems of all types | The heart is a muscle the size of your fist"
 author = "Ward Alexander"
 enableShareOnFediverse = true
-commento = "https://example.com/js/commento.js"
 logo = '/mage.png'
 svgicon = "/mage.png"
 featured = "true"
+
 [[menu.icons]]
   identifier = "mastodon"
   name = "Mastodon"
