@@ -13,6 +13,10 @@ logo = '/mage.png'
 svgicon = "/mage.png"
 featured = "true"
 
+cactusCommentsSiteName = "tupperward.net"
+cactusCommentsServerName = "cactus.chat"
+cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
+
 [[menu.icons]]
   identifier = "mastodon"
   name = "Mastodon"

@@ -11,6 +11,7 @@ tags:
   - adventures in labbing
 image:
 comments: true
+featured: true
 ---
 
 ## The Importance of Being Earnest

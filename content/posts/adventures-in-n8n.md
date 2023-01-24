@@ -9,7 +9,8 @@ tags:
 - pipeline
 - adventures in labbing
 image:
-comments: false
+comments: true
+featured: true
 ---
 
 A few years back a friend of mine in a Discord server created a bot that, on request, browsed some GoComics for a given comic strip or comment if possible. We mainly used it to ask for the most recent Heathcliff, Nancy and Garfield strips, but you did have to ask for them. So usually someone in Europe would ping the bot when they woke up and bing bang boom Bob's [yer@email.biz](https://tupperward.net/posts/adventures-in-labbing/) we got our comics. But for everybody in the US this was effectively automation (so long as someone in Europe remained routine-driven, a pretty safe bet). 
