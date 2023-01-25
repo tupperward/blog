@@ -1,5 +1,5 @@
 ---
-title: "Adventures in Labbing: Part 2 - Adventures in n8n"
+title: "Adventures in Labbing: Part 2 - n8n"
 date: 2023-01-23T21:45:20-05:00
 tags:
 - kubernetes
