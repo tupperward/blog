@@ -6,6 +6,7 @@ tags:
   - actions runner
   - n8n
   - automation
+  - adventures in labbing
 image:
 comments: false
 ---
