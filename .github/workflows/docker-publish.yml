@@ -34,3 +34,14 @@ jobs:
         uses: ripplr-io/docr-docker-publish@v1
         with:
           image_path: tupperward/blog
+
+      # Set up the Kubernetes CLI with your DigitalOcean Kubernetes cluster.
+      - name: Set up kubectl
+        uses: matootie/dokube@v1.4.0
+        with:
+          personalAccessToken: ${{ secrets.DO_TOKEN }}
+          clusterName: ward-personal-sandbox
+
+      # Run any kubectl commands you want!
+      - name: Rollout Pods
+        run: kubectl rollout restart deploy -n blog blog 
