@@ -45,7 +45,7 @@ jobs:
         with:
           registry: ${{ env.REGISTRY }}
           username: tupperward
-          password: ${{ secrets.GITHUB_TOKEN }}
+          password: ${{ secrets.DO_TOKEN }}
 
       # Extract metadata (tags, labels) for Docker
       # https://github.com/docker/metadata-action
