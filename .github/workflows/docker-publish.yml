@@ -18,7 +18,6 @@ env:
   # github.repository as <account>/<repo>
   IMAGE_NAME: blog
 
-
 jobs:
   build:
 
@@ -34,4 +33,4 @@ jobs:
       - name: DigitalOcean Docker Image Publish
         uses: ripplr-io/docr-docker-publish@v1
         with:
-          image_path: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:$BUILD_NUMBER
+          image_path: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
