@@ -33,4 +33,4 @@ jobs:
       - name: DigitalOcean Docker Image Publish
         uses: ripplr-io/docr-docker-publish@v1
         with:
-          image_path: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          image_path: ${{ env.IMAGE_NAME }}
