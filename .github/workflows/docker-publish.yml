@@ -43,5 +43,5 @@ jobs:
           clusterName: ward-personal-sandbox
 
       # Run any kubectl commands you want!
-      - name: Get nodes
+      - name: Rollout Pods
         run: kubectl rollout restart deploy -n blog blog 
