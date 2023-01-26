@@ -42,6 +42,12 @@ jobs:
         with:
           image_path: tupperward/blog
 
+  deploy:
+    runs-on: self-hosted
+    permissions:
+      contents: read
+
+    steps:
       # Set up the Kubernetes CLI with your DigitalOcean Kubernetes cluster.
       - name: Set up kubectl
         uses: matootie/dokube@v1.4.0
