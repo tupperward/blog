@@ -3,6 +3,7 @@ name: Tests
 on:
   check_run:
     types: [created, rerequested]
+    branches: [main]
 
 jobs:
   test:
@@ -13,9 +14,9 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          repository: ${{ github.repository }}
+          repository: ${{ env.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
-          ref: ${{ github.repository }}
+          ref: ${{ env.DOCKER_IMAGE }}
       - name: Build the Docker image
         uses: actions/checkout@v3
         with:

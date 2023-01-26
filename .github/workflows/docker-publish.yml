@@ -31,7 +31,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          repository: ${{ github.repository }}
+          repository: ${{ env.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
