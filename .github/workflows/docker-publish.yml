@@ -31,11 +31,11 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          repository: ${{ env.DOCKER_IMAGE }}
+          repository: ${{ vars.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
       - name: DigitalOcean Docker Image Publish
         uses: ripplr-io/docr-docker-publish@v1
         with:
-          image_path: ${{ env.DOCKER_IMAGE }}
+          image_path: ${{ vars.DOCKER_IMAGE }}
