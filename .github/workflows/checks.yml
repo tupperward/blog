@@ -15,10 +15,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          repository: ${{ env.DOCKER_IMAGE }}
+          repository: ${{ vars.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
-          ref: ${{ env.DOCKER_IMAGE }}
+          ref: ${{ vars.DOCKER_IMAGE }}
       - name: Build the Docker image
         uses: actions/checkout@v3
         with:
-          run: docker build . --tag ${{ env.DOCKER_IMAGE }}
+          run: docker build . --tag ${{ vars.DOCKER_IMAGE }}

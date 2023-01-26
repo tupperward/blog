@@ -17,8 +17,8 @@ jobs:
         uses: matootie/dokube@v1.4.0
         with:
           personalAccessToken: ${{ secrets.DO_TOKEN }}
-          clusterName: ${{ env.CLUSTER_NAME}}
+          clusterName: ${{ vars.CLUSTER_NAME}}
 
       # Run any kubectl commands you want!
       - name: Rollout Pods
-        run: kubectl rollout restart ${{ env.RESOURCE }} ${{ env.NAMESPACE }} ${{ env.RESOURCE_NAME }} 
+        run: kubectl rollout restart ${{ vars.RESOURCE }} ${{ vars.NAMESPACE }} ${{ vars.RESOURCE_NAME }} 
