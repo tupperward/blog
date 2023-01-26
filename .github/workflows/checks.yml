@@ -1,8 +1,7 @@
 name: Tests
 
 on:
-  check_run:
-    types: [created, rerequested]
+  pull_request:
     branches: [main]
 
 

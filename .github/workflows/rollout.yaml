@@ -21,4 +21,4 @@ jobs:
 
       # Run any kubectl commands you want!
       - name: Rollout Pods
-        run: kubectl rollout restart ${{ vars.RESOURCE }} ${{ vars.NAMESPACE }} ${{ vars.RESOURCE_NAME }} 
+        run: kubectl rollout restart ${{ vars.RESOURCE }} -n ${{ vars.NAMESPACE }} ${{ vars.RESOURCE_NAME }} 
