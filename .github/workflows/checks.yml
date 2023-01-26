@@ -1,8 +1,7 @@
 name: Tests
 
 on:
-  check_run:
-    types: [created, rerequested]
+  pull_request:
     branches: [main]
 
 
@@ -17,7 +16,6 @@ jobs:
         with:
           repository: ${{ vars.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
-          ref: ${{ vars.DOCKER_IMAGE }}
       - name: Build the Docker image
         uses: actions/checkout@v3
         with:
