@@ -1,0 +1,22 @@
+name: Tests
+
+on:
+  check_run:
+    types: [created, rerequested]
+
+jobs:
+  test:
+    runs-on: self-hosted
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ github.repository }}
+          token: ${{ secrets.GH_TOKEN }}
+          ref: ${{ github.repository }}
+      - name: Build the Docker image
+        uses: actions/checkout@v3
+        with:
+          run: docker build . --tag ${{ env.DOCKER_IMAGE }}
