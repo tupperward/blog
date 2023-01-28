@@ -1,0 +1,22 @@
+name: Tests
+
+on:
+  pull_request:
+    branches: [main]
+
+
+jobs:
+  test:
+    runs-on: self-hosted
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ vars.DOCKER_IMAGE }}
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Build the Docker image
+        uses: actions/checkout@v3
+        with:
+          run: docker build . --tag ${{ vars.DOCKER_IMAGE }}

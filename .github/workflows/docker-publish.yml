@@ -1,4 +1,4 @@
-name: Docker
+name: Docker Build and Publish to DigitalOcean CR
 
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
@@ -7,8 +7,6 @@ name: Docker
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
     branches: [ "main" ]
 
 env:
@@ -33,22 +31,11 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
         with:
-          repository: tupperward/blog
+          repository: ${{ vars.DOCKER_IMAGE }}
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
       - name: DigitalOcean Docker Image Publish
         uses: ripplr-io/docr-docker-publish@v1
         with:
-          image_path: tupperward/blog
-
-      # Set up the Kubernetes CLI with your DigitalOcean Kubernetes cluster.
-      - name: Set up kubectl
-        uses: matootie/dokube@v1.4.0
-        with:
-          personalAccessToken: ${{ secrets.DO_TOKEN }}
-          clusterName: ward-personal-sandbox
-
-      # Run any kubectl commands you want!
-      - name: Rollout Pods
-        run: kubectl rollout restart deploy -n blog blog 
+          image_path: ${{ vars.DOCKER_IMAGE }}
