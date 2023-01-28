@@ -1,5 +1,5 @@
 ---
-title: "Friday"
+title: "Friday - Enter Sadman"
 date: 2023-01-27T20:55:57-05:00
 tags:
   - family
