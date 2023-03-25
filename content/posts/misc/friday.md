@@ -7,6 +7,7 @@ tags:
   - talking through it
 image:
 comments: false
+draft: true
 ---
 
 Today was another great day! Easy peasy. The kiddo is doing great meeting new people which is a huge relief. 
