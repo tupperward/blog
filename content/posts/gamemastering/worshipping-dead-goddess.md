@@ -25,7 +25,9 @@ This story takes place after Lathander's insurgent attempt to acquire supreme di
 What is hardly known at all is Helm's impotent rage at Umberlee over the affair. Picture in your mind the god Helm, covered entrely in plate armor, his helm drawn tightly over his face leaving only a dark slit where eyes should be. Waves will win this fight *every single time.* No contest. So Helm does not fight. This is why it's natural to feel uneasy on water as you leave Helm's protection and give yourself in to the mercy of Umberlee, the bodily feeling of that divine protection being stripped away. 
 
 ### Vigilants of the Drowned Goddess
-Having lost the tempering effect of Murdane's presence, some Helmites devoted themselves to lifelong vigils intended to prevent 
+Having lost the tempering effect of Murdane's presence, some Helmites devoted themselves to lifelong vigils intended to prevent losses to the dark depths of Umberlee's embrace. Retaining a flair for the dramatic, thsse devotees of Helm seal themselves into ornate lighthouses and serve as their keepers until they are claimed by their god.  A stereotypal anchorite is a seventh daughter of noble upbringing with a religious bent and a preference for independence, seclusion, and indoor life. Often times a wealthy family that supports theanchorite will lavish the lighthouse with amenities to make their family member more comfortable throughout her stay.
+
+While it's undeniably good that they're there, it's certainly an ostentatious display 
 
 ### Celebrants of the Drowned Goddess
 The sudden loss of their god sent the disciples of Murdane into a shock and mourning, a tumultuous period which saw as many as 5% of members break their vows and leave their respective orders.But the apostles of the goddess of pragmatism will not let a 
