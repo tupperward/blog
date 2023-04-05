@@ -20,7 +20,7 @@ cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
 [[menu.icons]]
   identifier = "mastodon"
   name = "Mastodon"
-  url = "https://hachyderm.io/@tupperward"
+  url = "https://jorts.horse/@tupperward"
   weight = 10
 [[menu.icons]]
   identifier = 'github'
