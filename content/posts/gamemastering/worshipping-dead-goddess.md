@@ -1,6 +1,6 @@
 ---
 title: "Worshiping a Dead Goddess"
-date: 2023-03-25T00:49:50-04:00
+date: 2023-04-06T00:49:50-04:00
 tags:
   - Forgotten Realms
   - D&D
