@@ -10,7 +10,7 @@ tags:
   - Murdane
   - Helm
   - Umberlee
-image:
+image: /posts/lighthouse.jpg
 comments: false
 ---
 
