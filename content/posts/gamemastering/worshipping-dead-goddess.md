@@ -13,7 +13,7 @@ tags:
 image: /posts/lighthouse.jpg
 comments: false
 ---
-
+---
 My go to move when making a character for any TTRPG is to make the *Zealot of a Small Order*. A lot of the time for me this takes the form of a Lawful Neutral dwarf cleric who is utterly devoted to one very specific reading of one very particular facet of  one domain a given major deity.[^1] It's so fun and easy to come up with a character concept that has an interesting perspective by taking that reading to its logical conclusion at a Heroic 11[^1] I like that *Zealots of Small Orders* tend to be earnest weirdos who seldom fit in. I love the idea of dedicating your life to an aberrant perspective on minutae.
 
 In exploring these concepts I have somtimes dreamed up a few fun and/or interesting Small Orders on which to base my zealots, and the two which I write about today are reflections of each other. They are what happens when the god of practicality is killed in cold blood, and what mortal apostles do after outliving the god they expected to outlive ten more generations.
