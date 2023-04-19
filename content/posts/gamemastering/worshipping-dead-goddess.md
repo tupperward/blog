@@ -14,7 +14,7 @@ image: /posts/lighthouse.jpg
 comments: true
 ---
 ---
-My go to move when making a character for any TTRPG is to make the *Zealot of a Small Order*. A lot of the time for me this takes the form of a Lawful Neutral dwarf cleric who is utterly devoted to one very specific reading of one very particular facet of  one domain a given major deity.[^1] It's so fun and easy to come up with a character concept that has an interesting perspective by taking that reading to its logical conclusion at a Heroic 11[^1] I like that *Zealots of Small Orders* tend to be earnest weirdos who seldom fit in. I love the idea of dedicating your life to an aberrant perspective on minutae.
+My go to move when making a character for any TTRPG is to make the *Zealot of a Small Order*. A lot of the time for me this takes the form of a Lawful Neutral dwarf cleric who is utterly devoted to one very specific reading of one very particular facet of  one domain a given major deity.[^1] It's so fun and easy to come up with a character concept that has an interesting perspective by taking that reading to its logical conclusion at a Heroic 11[^2] I like that *Zealots of Small Orders* tend to be earnest weirdos who seldom fit in. I love the idea of dedicating your life to an aberrant perspective on minutae.
 
 In exploring these concepts I have somtimes dreamed up a few fun and/or interesting Small Orders on which to base my zealots, and the two which I write about today are reflections of each other. They are what happens when the god of practicality is killed in cold blood, and what mortal apostles do after outliving the god they expected to outlive ten more generations.
 
@@ -25,7 +25,7 @@ What is much less known is where Helm's attitude towards Lathander is cold, towa
 
 
 # Murdane's Vigil Anchorites
-Having lost the tempering effect of Murdane's pragmatic presence, some Helmites decided to devote themselves to lifelong vigils in her memory. With a slightly emboldened flair for the dramatic, these adherents of Helm have decided to brick themselves into lighthouses that dot the rocky and windswept shores of the Sword Coast. They serve as lighthouse keepers and serve as clergy for the locals. They often become respected religious authors and philosophers within their community. A stereotypal anchorite is a seventh child of noble upbringing with a religious bent or bookish streak and a preference for independence, seclusion, and indoor life. Often times a wealthy family that supports the anchorite will lavish the lighthouse with amenities to make their family member more comfortable throughout their stay. Longstanding aristocratic families may have an heirloom tower, decorated with religious iconography.[^1]
+Having lost the tempering effect of Murdane's pragmatic presence, some Helmites decided to devote themselves to lifelong vigils in her memory. With a slightly emboldened flair for the dramatic, these adherents of Helm have decided to brick themselves into lighthouses that dot the rocky and windswept shores of the Sword Coast. They serve as lighthouse keepers and serve as clergy for the locals. They often become respected religious authors and philosophers within their community. A stereotypal anchorite is a seventh child of noble upbringing with a religious bent or bookish streak and a preference for independence, seclusion, and indoor life. Often times a wealthy family that supports the anchorite will lavish the lighthouse with amenities to make their family member more comfortable throughout their stay. Longstanding aristocratic families may have an heirloom tower, decorated with religious iconography.[^3]
 
 Due to the frequent overlap of noble heritage, privacy, location at points of interest, and frequent transmission of written messages; Anchorites of Murdane's Vigil tend to be favored recruitment targets for spies and other clandestine operatives. They can often be swayed to the interestes of some ruling power or another by trying to be helpful to their family's ambitions in some way. It's uncommon but common enough to note that sometimes at the onset of political intrigue, there will be a rash of anchorite escapes that occeasionally become political prisoners. Somtimes you need to escape having covertly sided with the losing side of a war and the enemy knowing your precise location. Sometimes you just make a dumb decision when you're young.
 
@@ -37,5 +37,5 @@ The Anchorites, with their wealth and bombast, made a very public show of with t
 Often they will be contracted to provide consultation during large bridge construction projects. Celebrants near riverside cities often live much more lavish lives than their rural comrades.
 
 [^1]: Like the psychopomp purging the plumbing clogs of undeath from the river of souls. 
-[^1]: 12
-[^1]: It might be cool to have this be the pride of the city or town, but the family may have a dark history. Who knows? This is all for you to run with.
+[^2]: 12
+[^3]: It might be cool to have this be the pride of the city or town, but the family may have a dark history. Who knows? This is all for you to run with.
