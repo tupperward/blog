@@ -8,7 +8,7 @@ tags:
   - automation
   - adventures in labbing
 image:
-comments: false
+comments: true
 ---
 
 It's working! I set up a self-hosted action runner on one of the scrappernetes nodes and made it run as a service. This allowed me to start building out steps using the `doctl` tools after I was able to install that on the node as well. 

@@ -6,7 +6,7 @@ tags:
   - great grandmother
   - talking through it
 image:
-comments: false
+comments: true
 draft: true
 ---
 

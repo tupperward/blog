@@ -6,7 +6,7 @@ tags:
   - reagan is in hell
   - infrastructure
 image: 
-comments: false
+comments: true
 ---
 
 We made it back! The Tupperbaby is an incredibly understanding traveler, though we did run into several issues unrelated to the baby.

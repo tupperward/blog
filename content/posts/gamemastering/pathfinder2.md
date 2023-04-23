@@ -6,7 +6,7 @@ tags:
   - OGL
   - TTRPG
 image: /posts/pathfinder-image.jpg
-comments: false
+comments: true
 draft: true
 ---
 ---

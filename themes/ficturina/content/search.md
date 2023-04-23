@@ -6,5 +6,5 @@ outputs:
  - "json"
 norss: true
 nosearch: true
-comments: false
+comments: true
 ---

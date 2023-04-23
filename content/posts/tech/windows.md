@@ -7,7 +7,7 @@ tags:
   - development
   - jots and thoughts
 image:
-comments: false
+comments: true
 ---
 
 I really haven't used my Windows machine much since getting the Mac for work. I should probably stop that, it's just...so much more convenient to use the Macbook in most cases. I mean, it certainly helps that it's portable and not tied to one desk location, but I'm usually at that same location using the same monitors for the Windows desktop. 

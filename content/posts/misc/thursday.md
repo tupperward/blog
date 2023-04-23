@@ -6,7 +6,7 @@ tags:
   - baby
   - family
 image:
-comments: false
+comments: true
 ---
 
 This post will be periodically updated as we travel throughout the day. I've set it as a draft for now (so this should be erased), but we'll see how that goes.

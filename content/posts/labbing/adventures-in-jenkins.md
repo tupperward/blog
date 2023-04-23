@@ -7,7 +7,7 @@ tags:
   - adventures in labbing
   - gitlab
 image:
-comments: false
+comments: true
 ---
 
 Fuck [Jenkins](https://www.jenkins.io/) man.
