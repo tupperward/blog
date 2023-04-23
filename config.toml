@@ -13,7 +13,7 @@ logo = '/mage.png'
 svgicon = "/mage.png"
 featured = "true"
 
-commento = "https://cdn.commento.io/js/commento.js"
+commento = "https://comments.tupperward.net/js/commento.js"
 
 [[menu.icons]]
   identifier = "mastodon"
