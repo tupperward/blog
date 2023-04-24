@@ -10,7 +10,7 @@
     {{ $image := .Site.Params.icon512 | default "/img/icon.svg" }}
     {{ if .Params.Image }}
         {{ if or (hasPrefix .Params.Image "/") (hasPrefix .Params.Image "http://") (hasPrefix .Params.Image "https://") }}
-            {{ $image = .Params.Image }}
+            {{ $image = print .RelPermalink "/" .Params.Image }}
         {{ else }}
             {{ $image = print .RelPermalink "/" .Params.Image }}
         {{ end }}
