@@ -33,7 +33,7 @@ where contains(name, "Kobold")
 
 6. **Spells Untied from Classes.** Spell traditions.
 
-7. **Focus Points.**
+7. **Focus Points.** Boil it all down.
 
 # Things I Don't Like
 
