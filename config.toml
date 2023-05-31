@@ -1,4 +1,4 @@
-baseURL = 'http://tupperward.net'
+baseURL = 'http://worstwizard.net'
 languageCode = 'en-us'
 title = "Central Ohio's Worst Wizard"
 theme = 'ficturina'
@@ -22,6 +22,6 @@ commento = "https://cdn.commento.io/js/commento.js"
   weight = 10
 [[menu.icons]]
   identifier = 'github'
-  name = "repcal"
-  url = "https://repcal.tupperward.net"
+  name = "sansculottides"
+  url = "https://sansculottid.es"
   weight = 30
