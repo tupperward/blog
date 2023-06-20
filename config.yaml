@@ -1,0 +1,30 @@
+baseURL: http://worstwizard.net
+languageCode: en-us
+title: Central Ohio's Worst Wizard
+theme: ficturina
+copyright: use whatever you want dude just go for it
+paginate: 8
+summaryLength: 70
+author: Ward Alexander
+avatar: mage.png
+params:
+  description: he/him | kubernetes, games, birds, models, licorice, oats |
+    interested in distributed systems of all types | The heart is a muscle the
+    size of your fist
+  author: Ward Alexander
+  enableShareOnFediverse: true
+  avatar: /mage.png
+  logo: /mage.png
+  svgicon: /mage.png
+  featured: "true"
+  #commento: https://cdn.commento.io/js/commento.js
+menu:
+  icons:
+    - identifier: mastodon
+      name: Mastodon
+      url: https://jorts.horse/@tupperward
+      weight: 10
+    - identifier: gnome
+      name: sansculottides
+      url: https://sansculottid.es
+      weight: 30
