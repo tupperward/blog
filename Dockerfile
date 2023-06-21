@@ -4,4 +4,4 @@ COPY . /src
 
 EXPOSE 1313
 
-ENTRYPOINT [ "hugo", "server" ]
+ENTRYPOINT [ "hugo", "server", "-e", "production" ]
