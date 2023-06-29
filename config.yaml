@@ -23,8 +23,8 @@ menu:
     - identifier: mastodon
       name: Mastodon
       url: https://dice.camp/@tupperward
-      weight: 10
+      weight: 20
     - identifier: calendar
-      name: sansculottides
+      name: Sansculottides
       url: https://sansculottid.es
-      weight: 30
+      weight: 10
