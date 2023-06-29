@@ -24,7 +24,7 @@ menu:
       name: Mastodon
       url: https://dice.camp/@tupperward
       weight: 10
-    - identifier: gnome
+    - identifier: calendar
       name: sansculottides
       url: https://sansculottid.es
       weight: 30
