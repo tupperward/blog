@@ -22,9 +22,9 @@ menu:
   icons:
     - identifier: mastodon
       name: Mastodon
-      url: https://jorts.horse/@tupperward
-      weight: 10
-    - identifier: gnome
-      name: sansculottides
+      url: https://dice.camp/@tupperward
+      weight: 20
+    - identifier: calendar
+      name: Sansculottides
       url: https://sansculottid.es
-      weight: 30
+      weight: 10
