@@ -1,5 +1,5 @@
 ---
-title: "Short Story"
+title: "'Confession'"
 date: 2023-07-12T10:20:33-04:00
 tags:
   - old writing
