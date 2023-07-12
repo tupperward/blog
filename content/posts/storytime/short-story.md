@@ -1,0 +1,30 @@
+---
+title: "Short Story"
+date: 2023-07-12T10:20:33-04:00
+tags:
+  - old writing
+  - short story
+  - religion
+image:
+comments: true
+---
+
+This is a short story I found in my old Blogger profile while I was cleaning things out. The date on this is 3/22/2010, which seems like it checks out to me. I remember writing this after taking some adderall to study and ended up cleaning the whole apartment, writing a single page of legible fiction, and then failing out of community college.
+
+I'm posting this here because I lost it for 13 years. I never thought I'd see it again and I want to keep it so I can go back and wish I had the guts to edit this and make it something worth my time. Presented without further ado: Confessional. I warn you, it's not great.
+
+--- 
+
+St. Vincent's is an innocuous modern looking Catholic church down the street from my high school. Coincidentally, it was also directly across the street from my work where I performed my duties as a sickeningly exuberant drug store clerk. Between the St. Vincent youth group almost exclusively going to my school and half the congregation making a quick booze run after morning services I got a bit of exposure to St. Vincent's regulars. Naturally, I'd peeked inside during a few interfaith meetings (through the safety of my own denomination, of course) and once sneaked off campus during lunch for a free meal and sermon. Hell, I even had a friend who was buried there. I think that's why I chose it as my entrance into the Catholic world.
+
+See, I grew up in a Protestant family. But we weren't just Protestant. We were Disciples of Christ. It's about three steps from just saying "fuck it" and going to the Unitarian church down the street. Only our sanctuary didn't reek of illegal substances. Disciples of Christ is a denomination where Pascal's Wager was applied to recycling as often as it was the existence of the one who is called I Am. So growing up I always considered my denomination to make theological sense but it just didn't exude legitimacy in the way only Catholicism can. I secretly craved a real clerical hierarchy, actual epic architecture and the millennia of rich history and tradition the priesthood could provide. In my eyes, the Disciples of Christ were garish and gaudy compared to the sincere solemnity that came with the Vatican's blessing. For a long time after I lost my faith I thought often about what would have happened had I grown up Catholic. What it was like to be confirmed. What it was like to be served communion on my knees rather than shared through intinction. What it was like to go to confession. From my place in the well lit, contemporary pews of my Disciples home, I coveted my neighbor's ass.
+
+So I went to St. Vincent's. It was some time after school let out and I had pulled into the all but deserted parking lot in my beaten and abused Kia Rio. To be perfectly honest, I was terrified of the building the moment I saw it. More than a decade and a half of idolatry was at stake. I secretly prayed to a non-deity that this would fulfill me. After ten solid minutes of psyching myself up I opened the car door and slid outside, slamming it shut again and staring at the looming building. I took one step forward and paused. The building dominated my vision. I stepped back, fished a cigarette out of the crushed pack in my pants pocket and leaned against my car, gazing at the sleek brushed gunmetal cross on the squat but elegant brick building. I had to hand it to them: the cherished tradition of religious architecture was alive and well, even with gargoyles omitted. Each smooth line flowed into the next while the brick and mortar materials said "I am humility wrapped in silk." I paused to consider whether or not this was the right place for a moment before putting out the cigarette and walked inside.
+
+It's funny how cheerful design can confer ominous overtones. I was greeted in the foyer by a trickling interior fountain and yet more stainless steel sculptures. It was almost post-apocalyptic in its tranquility. St. Vincent's had cannibalized the traditions of yore for a more friendly and approachable atmosphere but somehow missed the mark. I'm sure with the bustle of a congregation, reinvigorated after a reverent Mass, would have made it seem like a perfect little "town square" for their community. But now it was silent but for the syncopated dripping of water. It would have almost been funny if it weren't so bleakly serene. My sneakers somehow echoed as I made my way across the tile floor into the grand, sweeping solitude of the sanctuary. The ceiling was a lofty spiral of hardwood that looked like it came straight from the same Scandinavian furnisher who provided the mile long pews. I looked around the circular auditorium nervously for a moment when I didn't immediately find the confessional booth.
+
+But there it was, nothing more than a wooden screen panel and an altar pushed off to the back of sanctuary. As I proceeded, my mind's eye saw towering Gothic stonework and ancient, hand carved confessionals amidst a sea of worn oak pews. Instead I saw something like what Disciples would do if they had to make something the Vatican would approve of. It was clean. Beautiful. Chic. Carefully, I knelt at the altar, feeling the divinity drain from every sanitized surface of this holy place.
+
+Yes, I did get to speak with a priest. He was young and energetic and welcoming, a prime example of respect and enthusiasm in his field. We talked for maybe twenty minutes about faith and the history of Catholicism. Yes, he absolved me of my sins. No, I didn't care. I held no faith in a sky-man then. His words were lost on me. He was just selling his services to another potential pew filler. It's not like I believed anyway. It's not like I actually thought I would be suddenly called upon by a higher power to believe, to have my faith renewed and find new family in the oldest church. No big deal.
+
+But that craving for religious structure is still there. It's something that's hard to shake. And it's something I will continue to fear reaching for. I don't want to be let down like that again.
