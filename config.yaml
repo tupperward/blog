@@ -29,5 +29,5 @@ menu:
       weight: 10
     - identifier: twitter
       name: Blue Sky
-      url: https://bsky.app/profile/tupperward.worstwizard.online
+      url: https://bsky.app/profile/worstwizard.online
       weight: 30
