@@ -33,6 +33,6 @@ menu:
       weight: 40
     - identifier: email
       name: Email
-      url: tupperward@worstwizard.online
+      url: 'mailto:tupperward@worstwizard.online'
       weight: 10
 
