@@ -1,6 +1,6 @@
-baseURL: http://worstwizard.online
+baseURL: http://worstwizard.net
 languageCode: en-us
-title: Central Ohio's Worst Wizard
+title: The Premier Bad Wizard of the Internet
 theme: ficturina
 copyright: use whatever you want dude just go for it
 paginate: 8
@@ -11,7 +11,6 @@ params:
   description: he/him | kubernetes, games, birds, models, licorice, oats |
     interested in distributed systems of all types | The heart is a muscle the
     size of your fist
-  author: Ward Alexander
   enableShareOnFediverse: true
   avatar: /mage.png
   logo: /mage.png
@@ -28,3 +27,7 @@ menu:
       name: Sansculottides
       url: https://sansculottid.es
       weight: 10
+    - identifier: twitter
+      name: Blue Sky
+      url: https://bsky.app/profile/tupperward.worstwizard.online
+      weight: 30
