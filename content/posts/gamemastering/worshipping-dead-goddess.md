@@ -11,7 +11,7 @@ tags:
   - Helm
   - Umberlee
 image: /posts/lighthouse.jpg
-comments: true
+featured: true
 ---
 ---
 My go to move when making a character for any TTRPG is to make the *Zealot of a Small Order*. A lot of the time for me this takes the form of a Lawful Neutral dwarf cleric who is utterly devoted to one very specific reading of one very particular facet of  one domain a given major deity.[^1] It's so fun and easy to come up with a character concept that has an interesting perspective by taking that reading to its logical conclusion at a Heroic 11[^2] I like that *Zealots of Small Orders* tend to be earnest weirdos who seldom fit in. I love the idea of dedicating your life to an aberrant perspective on minutae.
