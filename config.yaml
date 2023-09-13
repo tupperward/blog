@@ -22,7 +22,7 @@ menu:
     - identifier: mastodon
       name: Mastodon
       url: https://dice.camp/@tupperward
-      weight: 30
+      weight: 40
     - identifier: calendar
       name: Sansculottides
       url: https://sansculottid.es
@@ -30,7 +30,7 @@ menu:
     - identifier: twitter
       name: BlueSky
       url: https://bsky.app/profile/worstwizard.online
-      weight: 40
+      weight: 30
     - identifier: email
       name: Email
       url: 'mailto:tupperward@worstwizard.online'
