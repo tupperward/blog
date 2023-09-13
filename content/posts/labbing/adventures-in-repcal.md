@@ -5,8 +5,9 @@ tags:
   - adventures in labbing
   - french republican calendar
   - Kubernetes
-image: /posts/decimal-clock.jpg
-comments: true
+image: /posts/fflag.jpg
+feature: true
+featured: true
 ---
 
 I made a fun little website called [sansculottid.es](https://sansculottid.es) all about the French Republican Calendar. If you're not familiar with the calendar and why I think it's cool, go immediately read Ursula Lawrence's excellent [introduction to her French Republican Wall Calendar](https://www.ursulalawrence.com/the-french-republican-wall-calendar).[^1] Her calendar's focus on the natural elements really drew me in, and I really think this part stands out.
