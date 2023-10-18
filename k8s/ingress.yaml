@@ -1,0 +1,28 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: blog-ingress
+  namespace: blog
+  labels:
+    name: blog-ingress
+  annotations:
+    cert-manager.io/cluster-issuer: prod-issuer
+    acme.cert-manager.io/http01-edit-in-place: "true" 
+  #  acme.cert-manager.io/http01-ingress-class: nginx
+spec:
+  ingressClassName: nginx
+  tls:
+  - hosts: 
+    - worstwizard.online
+    secretName: big-prod-tls
+  rules:
+  - host: worstwizard.online
+    http:
+      paths:
+      - pathType: Prefix
+        path: "/"
+        backend:
+          service:
+            name: blog
+            port: 
+              number: 1313

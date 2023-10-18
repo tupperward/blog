@@ -1,0 +1,39 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: redirect-ingress
+  namespace: blog
+  labels:
+    name: redirect-ingress
+  annotations:
+    cert-manager.io/cluster-issuer: prod-issuer
+    nginx.ingress.kubernetes.io/permanent-redirect: "https://worstwizard.online"
+  #  acme.cert-manager.io/http01-ingress-class: nginx
+spec:
+  ingressClassName: nginx
+  tls:
+  - hosts: 
+    - worstwizard.net
+    - tupperward.net
+    secretName: redirect-prod-tls
+  rules:
+  - host: tupperward.net
+    http:
+      paths:
+        - path: /*
+          pathType: Prefix
+          backend:
+            service:
+              name: blog
+              port:
+                number: 1313
+  - host: worstwizard.net
+    http:
+      paths:
+        - path: /*
+          pathType: Prefix
+          backend:
+            service:
+              name: blog
+              port:
+                number: 1313

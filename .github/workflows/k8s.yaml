@@ -1,0 +1,43 @@
+name: Deploy Kubernetes Manifests
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+on:
+  push:
+    paths:
+    - k8s/**
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    permissions:
+      contents: read
+
+    steps:
+      # Set up the Kubernetes CLI with your DigitalOcean Kubernetes cluster.
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ vars.DOCKER_IMAGE }}
+          token: ${{ secrets.GH_TOKEN }}
+          ref: main
+
+      - name: Set up kubectl
+        uses: matootie/dokube@v1.4.0
+        with:
+          personalAccessToken: ${{ secrets.DO_TOKEN }}
+          clusterName: ${{ vars.CLUSTER_NAME}}
+
+      # Run any kubectl commands you want!
+      - name: Apply Deployment Changes
+        run: kubectl apply -f k8s/deployment.yaml
+        
+      - name: Apply Ingress Changes
+        run: kubectl apply -f k8s/ingress.yaml
+
+      - name: Apply Redirect Changes
+        run: kubectl apply -f k8s/redirect-ingress.yaml

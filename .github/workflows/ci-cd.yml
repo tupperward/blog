@@ -7,6 +7,17 @@ name: One Stop Shop
 
 on:
   push:
+    paths:
+    - archetypes/**
+    - assets/**
+    - content/**
+    - i18n/**
+    - public/**
+    - resources/**
+    - static/**
+    - themes/**
+    - config.yaml
+    - Dockerfile
     branches: [ "main" ]
 
 env:

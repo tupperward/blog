@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: blog
+  namespace: blog
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: blog
+  template:
+    metadata:
+      labels:
+        app: blog
+    spec:
+      nodeSelector:
+        doks.digitalocean.com/node-pool: kiddie-pool
+      containers:
+      - name: blog
+        image: registry.digitalocean.com/tupperward/blog
+        imagePullPolicy: Always
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "0.5"
+          requests:
+            cpu: "0.1"
+        ports:
+        - containerPort: 1313
