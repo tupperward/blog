@@ -19,7 +19,7 @@ Over the many years of gatherings I've been a party to the cooking of many a fow
 
 I love making this dish. Over many years of cooking many different fowl many different ways, this is my favorite one. Yes, there are personal reasons why I'm attached to turkey. Yes, this is tuned speciically to the needs of me and my small cooker. I could be writing this to an audience of people who know what they're doing. But they don't need this. 
 
-I do, I forget shit all the time. This is for me. I need to write another one of these for the stuffing so I remember how to make it year to year.
+I do. I forget shit all the time. This is for me. I need to write another one of these for the stuffing so I remember how to make it year to year.
 
 ![My Glistening Thighs](/posts/turkey_pics/two_birds.jpg "The result of this method for a group using 2 grills")
 # The Actual Recipe Part 
