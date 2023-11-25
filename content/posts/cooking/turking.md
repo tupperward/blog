@@ -9,11 +9,11 @@ tags:
 image: /posts/turkey_pics/two_birds_thighs.jpg
 ---
 # The Long Boring Part Before the Recipe
-Thanksgiving dinner is my favorite thing to cook every year. It really only got big for me when I was 19, my group of freinds ended up starting a friendsgiving a tradition that has so far lasted for 15 years. It's been my favorite day of the year every year and as I've grown up and started my own family I've carried that love for that event over to the holiday proper. 
+Thanksgiving dinner is my favorite thing to cook every year. It really only got big for me when I was 19, my group of friends ended up starting a friendsgiving a tradition that has so far lasted for 15 years. It's been my favorite day of the year every year and as I've grown up and started my own family I've carried that love for that event over to the holiday proper. 
 
 Now as a total aside, I've long held that when dealing with software for a living wears a hole into your soul. Building intangible, completely logical constructs out of text is pretty neat, but I can't touch my stupid website. I can't play catch with the dumb Godot dice game I poorly made. I yearn for the physical, to see the product of my own hands' labor. I've never been much good at building things, even in the software world where I have more experience, so I instead turn to cooking.
 
-Cooking is great skill to pour yourself into a bit because, as a wise philosopher once said, [ya gotta eat](https://youtu.be/aklwE3zdG14). Like...three times a day usually. If you plan ahead and have some spare time you can turn that into a lot of practice. It can teach you a lot of other skills, like chemistry and organization. It's incredible to feel your body learn the way to dice an onion more and more comfortably over time. Cooking taught me to respect the tools in my toolbox and take care of them, but to also not get overly precious about which ones I keep. They are tools after all, not objects d'art.
+Cooking is great skill to pour yourself into because, as a wise philosopher once said, [ya gotta eat](https://youtu.be/aklwE3zdG14). Like...three times a day usually. If you plan ahead and have some spare time you can turn that into a lot of practice. It can teach you a lot of other skills, like chemistry and organization. It's incredible to feel your body learn the way to dice an onion more and more comfortably over time. Cooking taught me to respect the tools in my toolbox and take care of them, but to also not get overly precious about which ones I keep. They are tools after all, not objects d'art.
 
 Over the many years of gatherings I've been a party to the cooking of many a fowl, and in 2020 I picked up barbeque as a hobby. I learned on my 22" Weber kettle, which has slowly been modified into a counter height machine with extra cleaning and safety features. It comes with me to many a cookout in a variety of locations for ribs or pulled pork, but most famously this a machine that roasts birds. Some have even referred to my smoked turkey as their personal [Roman Empire](https://knowyourmeme.com/memes/how-often-do-you-think-about-the-roman-empire).
 
@@ -31,9 +31,9 @@ We're also going to need to get smoke to adhere to the turkey and make bark. Wit
 
 Poultry also tends to dry out, so we're going to give it some help by giving it a glaze. This well also just make it nice and savory and sweet and unctuous, it's just good all around.
 
-To avoid further drying, we're going to cook this bird relatively hot. 350-375F the whole time, keeping things relatively close to typical oven temps. The easy way to achieve this with a kettle grill is to use one whole chimney of lit lump charcoal far off on the back side of the grill. I have a [Slow-N-Sear](https://snsgrills.com/collections/slow-n-sear) that I swear by to keep coals safely in one area of the grill.
+To avoid further drying, we're going to cook this bird relatively hot. 350-375F the whole time, keeping things relatively close to typical oven temps. Going too much lower will give the meat a little too much time to dry out, instead we want to cook evenly and relatively quckly. The easy way to achieve this with a kettle grill is to use one whole chimney of lit lump charcoal far off on the back side of the grill. I also have a [Slow-N-Sear](https://snsgrills.com/collections/slow-n-sear) that I swear by to keep coals safely in one area of the grill. If you're clever with steel or tin foil you can make something similar yourself.
 
-We're going to use a thermometer to test doneness and check grill temp. This is honestly the most optional, but also easy mode way to do things. If you have a cheap $30 one that uses two probes, that's perfect. One probe should be in the grill about an inch or two away from any meat and the other should be in the coldest part of the breast. You should get it pretty deep and then move it around to figure out where the coldest part is.
+We're going to use a thermometer to test doneness and check grill temp. This is honestly the most optional, but also the most __Big "E" Easy Mode__ way to do things. If you have a cheap $30 one that uses two probes, that's perfect. One probe should be in the grill about an inch or two away from any meat and the other should be in the coldest part of the breast. You should get it pretty deep and then move it around to figure out where the coldest part is.
 
 ### Butchery
 We're going to spatchcock the turkey by taking a sharp, sturdy knife and running it along either side of the spine. and then cut off the leg quarters. I prefer to trim off the wings as well, they can just go right in with the neck and spine for making gravy. I also take the time to trim off excess rib bones, just to make things a little nicer.
@@ -68,7 +68,7 @@ Once the smoke goes from billowy and white to thin and blue, check the temp. Onc
 ![The spread](/posts/turkey_pics/one_bird_orientation.jpg "A late cook picture showing the orientation as well as safety precautions aka the hose.")
 
 ### Incorrect:
-![A chicken being cooking in the opposite the correct way](/posts/turkey_pics/one_chicken_wrong.jpg "A chicken undergoing a test run to this method, but oriented super backwards.")
+![A chicken being cooking in the opposite of the correct way](/posts/turkey_pics/one_chicken_wrong.jpg "A chicken undergoing a test run to this method, but oriented super backwards.")
 
 At this point you should put your probe into the deepest part of the breast. At this point, take a best guess, but in about 5 to 10 minutes the temperature gradient on the meat should have begun to form so you can find it a bit easier by just sliding the probe in and out.
 
@@ -84,8 +84,8 @@ You cannot undo slicing the turkey, all you can do is add more gravy. Just wait 
 
 # Yer Done
 
-Slice it up and serve. I like to avoid slicing into a turkey breast until it's time to eat it so as to keep it from drying out, so gauge your crowd and slice accordingly. There's a trade-off in convenience vs quality when it comes to slicing the meat before storage. That said, a late night drunken turkey sandwich with presliced meat is choice.
+Slice it up and serve. I like to avoid slicing into a turkey breast until it's time to eat it so as to keep it from drying out, so gauge your crowd and slice accordingly. There's a trade-off in convenience vs quality when it comes to slicing the meat before storage. That said, a late night drunken turkey sandwich with presliced meat is *choice*.
 
-That's it! I hope explaining the methods helped you understand why I do it this way so you can adapt it to your own cooking situation. And maybe you can heal your weary soul with this. It helped mine.
+That's it! I hope explaining the methods helped you understand why I do it this way so you can adapt it to your own cooking situation. And maybe you can heal your weary soul with this, it grew a part of mine back.
 
 [^1]: Crack a beer.
