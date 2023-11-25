@@ -61,7 +61,7 @@ The big concern here is the enameling on the exterior of our grill. That's what 
 
 ![Probe Port](/posts/grill_pics/probe_port.jpg "A silicone probe port")
 
-# Guantanamo Bay Is Still Open In 2023
+# __Guantanamo Bay is still open in 2023.__
 
 [^1]:  Hence the kind of thinking that puts upholstered furniture on the porch and then, later, back inside another apartment. Cherish your 20's, you will never be this free and stupid again. 
 [^2]: I encourage you to do the same. It's beautiful to turn your tools into bespoke reflections of your own creativity. Make the handle conform to your hand.
