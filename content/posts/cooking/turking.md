@@ -1,5 +1,5 @@
 ---
-title: "The Once and Future Turking"
+title: "The Once and Future (tur)King"
 date: 2023-11-23T21:48:01-05:00
 tags:
   - cooking
