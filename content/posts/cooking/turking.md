@@ -6,6 +6,7 @@ tags:
   - recipe
   - turkey
   - thanksgiving
+  - bbq
 image: /posts/turkey_pics/two_birds_thighs.jpg
 ---
 # The Long Boring Part Before the Recipe
@@ -15,9 +16,9 @@ Now as a total aside, I've long held that when dealing with software for a livin
 
 Cooking is great skill to pour yourself into because, as a wise philosopher once said, [ya gotta eat](https://youtu.be/aklwE3zdG14). Like...three times a day usually. If you plan ahead and have some spare time you can turn that into a lot of practice. It can teach you a lot of other skills, like chemistry and organization. It's incredible to feel your body learn the way to dice an onion more and more comfortably over time. Cooking taught me to respect the tools in my toolbox and take care of them, but to also not get overly precious about which ones I keep. They are tools after all, not objects d'art.
 
-Over the many years of gatherings I've been a party to the cooking of many a fowl, and in 2020 I picked up barbeque as a hobby. I learned on my 22" Weber kettle, which has slowly been modified into a counter height machine with extra cleaning and safety features. It comes with me to many a cookout in a variety of locations for ribs or pulled pork, but most famously this a machine that roasts birds. Some have even referred to my smoked turkey as their personal [Roman Empire](https://knowyourmeme.com/memes/how-often-do-you-think-about-the-roman-empire).
+Over the many years of gatherings I've been a party to the cooking of many a fowl, and in 2020 I picked up barbeque as a hobby. I learned on my 22" Weber kettle, which has slowly been modified into a counter height machine with extra cleaning and safety features. It comes with me to many a cookout in a variety of locations for ribs or pulled pork, but most famously this a machine that roasts birds. I have dedicated a non-neglible fraction of my life to the roasting of turkeys, and the result is, to be modest, positively sublime. This is a turkey breast that, when microwaved the next day for leftovers, is still moist and tender. For the past three Thanksgivings I have *forgotten* to make gravy from scratch and had to use packets and it didn't even matter, it was not needed. Some have even referred to my smoked turkey as their personal [Roman Empire](https://knowyourmeme.com/memes/how-often-do-you-think-about-the-roman-empire).
 
-I love making this dish. Over many years of cooking many different fowl many different ways, this is my favorite one. Yes, there are personal reasons why I'm attached to turkey. Yes, this is tuned speciically to the needs of me and my small cooker. I could be writing this to an audience of people who know what they're doing. But they don't need this. 
+This is all to say: I __love__ making this dish. Over many years of cooking many different fowl many different ways, this is my favorite one. Yes, there are personal reasons why I'm attached to turkey. Yes, this is tuned speciically to the needs of me and my small cooker. I could be writing this to an audience of people who know what they're doing. But they don't need this. 
 
 I do. I forget shit all the time. This is for me. I need to write another one of these for the stuffing so I remember how to make it year to year.
 
