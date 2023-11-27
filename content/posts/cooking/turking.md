@@ -8,6 +8,7 @@ tags:
   - thanksgiving
   - bbq
 image: /posts/turkey_pics/two_birds_thighs.jpg
+comments: true
 ---
 # The Long Boring Part Before the Recipe
 Thanksgiving dinner is my favorite thing to cook every year. It really only got big for me when I was 19, my group of friends ended up starting a friendsgiving a tradition that has so far lasted for 15 years. It's been my favorite day of the year every year and as I've grown up and started my own family I've carried that love for that event over to the holiday proper. 

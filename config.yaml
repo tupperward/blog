@@ -8,15 +8,15 @@ summaryLength: 70
 author: Ward Alexander
 avatar: mage.png
 params:
-  description: he/him | kubernetes, games, birds, models, licorice, oats |
-    interested in distributed systems of all types | The heart is a muscle the
-    size of your fist
+  description: kubernetes, games, birds, models, licorice, oats
+    interested in distributed systems of all types 
+    The heart is a muscle the size of your fist
   enableShareOnFediverse: true
   avatar: /mage.png
   logo: /mage.png
   svgicon: /mage.png
   featured: "true"
-  #commento: https://cdn.commento.io/js/commento.js
+  commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
     - identifier: mastodon

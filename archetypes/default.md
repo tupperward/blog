@@ -6,5 +6,6 @@ tags:
   - tag2
   - tag3
 image:
+comments: true
 ---
 
