@@ -20,7 +20,7 @@ params:
 menu:
   icons:
     - identifier: kofi
-      name: Ko-Fi
+      name: Kofi
       url: https://ko-fi.com/tupperward
       weight: 40
     - identifier: calendar
