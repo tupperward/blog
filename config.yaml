@@ -19,9 +19,9 @@ params:
   commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
-    - identifier: mastodon
-      name: Mastodon
-      url: https://dice.camp/@tupperward
+    - identifier: kofi
+      name: Ko-Fi
+      url: https://ko-fi.com/tupperward
       weight: 40
     - identifier: calendar
       name: Sansculottides
