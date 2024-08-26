@@ -19,20 +19,20 @@ params:
   commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
-    - identifier: kofi
-      name: Kofi
-      url: https://ko-fi.com/tupperward
-      weight: 40
     - identifier: calendar
       name: Sansculottides
       url: https://sansculottid.es
-      weight: 20
-    - identifier: twitter
+      weight: 10
+    - identifier: bluesky
       name: BlueSky
       url: https://bsky.app/profile/worstwizard.online
       weight: 30
     - identifier: email
       name: Email
       url: 'mailto:tupperward@worstwizard.online'
-      weight: 10
+      weight: 20
+    - identifier: matrix
+      name: Matrix
+      url: https://matrix.to/#/@tupperward:worstwizard.online
+      weight: 40
 
