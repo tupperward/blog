@@ -8,8 +8,8 @@ summaryLength: 70
 author: Ward Alexander
 avatar: mage.png
 params:
-  description: bedraggled kubernetomancer
-    interested in distributed systems of all types 
+  description: bedraggled kubernetomancer |
+    interested in distributed systems of all types |
     the heart is a muscle the size of your fist
   enableShareOnFediverse: true
   avatar: /mage.png
