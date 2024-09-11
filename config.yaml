@@ -8,9 +8,9 @@ summaryLength: 70
 author: Ward Alexander
 avatar: mage.png
 params:
-  description: kubernetes, games, birds, models, licorice, oats
+  description: bedraggled kubernetomancer
     interested in distributed systems of all types 
-    The heart is a muscle the size of your fist
+    the heart is a muscle the size of your fist
   enableShareOnFediverse: true
   avatar: /mage.png
   logo: /mage.png
