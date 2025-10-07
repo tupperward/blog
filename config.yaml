@@ -3,7 +3,8 @@ languageCode: en-us
 title: The Internet's Shittiest Wizard
 theme: ficturina
 copyright: use whatever you want dude just go for it
-paginate: 8
+paginatation:
+  pagerSize: 8
 summaryLength: 70
 author: Ward Alexander
 avatar: mage.png
@@ -35,4 +36,3 @@ menu:
       name: Matrix
       url: https://matrix.to/#/@tupperward:worstwizard.online
       weight: 40
-
