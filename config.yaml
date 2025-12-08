@@ -38,3 +38,7 @@ menu:
       name: Matrix
       url: https://matrix.to/#/@tupperward:worstwizard.online
       weight: 40
+    - identifier: utensils
+      name: Nyetcooking
+      url: https://worstwizard.online/nyetcooking
+      weight: 15
