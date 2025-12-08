@@ -1,0 +1,6 @@
+# Hugo build artifacts
+public/
+resources/_gen/
+
+# OS files
+.DS_Store

@@ -1,0 +1,36 @@
+<style>
+    /* Critical CSS to prevent FOUC */
+    :root {
+        --bg: #242629;
+        --fg: white;
+        --accent: #7b64c0;
+    }
+
+    html, body {
+        background-color: var(--bg);
+        color: var(--fg);
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Prevent large icon flash */
+    img, svg {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Hide content until CSS loads */
+    body {
+        visibility: hidden;
+    }
+
+    body.loaded {
+        visibility: visible;
+    }
+</style>
+<script>
+    // Show body once styles are loaded
+    document.addEventListener('DOMContentLoaded', function() {
+        document.body.classList.add('loaded');
+    });
+</script>
