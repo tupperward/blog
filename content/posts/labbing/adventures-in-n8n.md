@@ -9,11 +9,9 @@ tags:
 - pipeline
 - adventures in labbing
 image:
-comments: true
-featured: true
 ---
 
-A few years back a friend of mine in a Discord server created a bot that, on request, browsed some GoComics for a given comic strip or comment if possible. We mainly used it to ask for the most recent Heathcliff, Nancy and Garfield strips, but you did have to ask for them. So usually someone in Europe would ping the bot when they woke up and bing bang boom Bob's [yer@email.biz](https://tupperward.net/posts/adventures-in-labbing/) we got our comics. But for everybody in the US this was effectively automation (so long as someone in Europe remained routine-driven, a pretty safe bet). 
+A few years back a friend of mine in a Discord server created a bot that, on request, browsed some GoComics for a given comic strip or comment if possible. We mainly used it to ask for the most recent Heathcliff, Nancy and Garfield strips, but you did have to ask for them. So usually someone in Europe would ping the bot when they woke up and bing bang boom Bob's [yer@email.biz](https://tupperward.net/posts/adventures-in-labbing/) we got our comics. But for everybody in the US this was effectively automation (so long as someone in Europe remained routine-driven, a pretty safe bet).
 
 I took a bit of a break from that Discord, but still wanted comics delivered right to my door, so I initially tried to set up an RSS reader in IFTTT and
 
@@ -34,7 +32,7 @@ Since I'm migrating everything over to the oceanetes cluster, it was easy to [us
 
 ## A Quick First Workflow
 
-Making the workflow was easy enough. I  just pointed the RSS Read node to https://www.comicsrss.com/rss/heathcliff.rss. and then executed a bit of dumb js to find the image url. 
+Making the workflow was easy enough. I  just pointed the RSS Read node to https://www.comicsrss.com/rss/heathcliff.rss. and then executed a bit of dumb js to find the image url.
 
 ```javascript
 var content = $input.first().json.content;
@@ -43,7 +41,7 @@ $input.first().json.url = content.match(regex)[0].slice(0, -1);
 return [$input.first().json];
 ```
 
-I think the trickest part of this is [setting up the Discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) but even that is pretty trivial. 
+I think the trickest part of this is [setting up the Discord webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks) but even that is pretty trivial.
 
 ![It really is just that easy](/posts/garbage-ape-webhook.png "A quick screenshot of the Discord webhoook filled out.")
 
@@ -55,7 +53,7 @@ Success![^2]
 
 ## Posting to Mastodon
 
-Similarly, I'm setting n8n up to promote this blog using my Mastodon account. There is a community module in n8n for this, but I can't get the OAuth2 node to cooperate. Instead I opted for making direct HTTP requests to the `/api/v1` endpoint of the Mastodon instance as referenced in the [Mastodon API docs](https://docs.joinmastodon.org/methods/statuses/). 
+Similarly, I'm setting n8n up to promote this blog using my Mastodon account. There is a community module in n8n for this, but I can't get the OAuth2 node to cooperate. Instead I opted for making direct HTTP requests to the `/api/v1` endpoint of the Mastodon instance as referenced in the [Mastodon API docs](https://docs.joinmastodon.org/methods/statuses/).
 
 To be honest, I couldn't find too much information about this regarding n8n and that was the impetus of this blog post. Well, that and making sure I don't get stagnant.
 
@@ -77,4 +75,4 @@ Not that shabby! I would like to add a description field so I can get a little m
 Next up: Jenkins for CD of this very blog!
 
 [^1]: without TLS shhhh. Now we don't have that problem. We're big kids now.
-[^2]: Look, I'm not going to ping the server at odd hours to do dumb shit for a dumb blog post. I mean I guess it's not pinging it's in its own channel, and nobody is tagged...whatever deal with a stale picture. 
+[^2]: Look, I'm not going to ping the server at odd hours to do dumb shit for a dumb blog post. I mean I guess it's not pinging it's in its own channel, and nobody is tagged...whatever deal with a stale picture.

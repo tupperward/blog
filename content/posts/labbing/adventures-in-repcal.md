@@ -6,8 +6,6 @@ tags:
   - french republican calendar
   - Kubernetes
 image: /posts/fflag.jpg
-feature: true
-featured: true
 ---
 
 I made a fun little website called [sansculottid.es](https://sansculottid.es) all about the French Republican Calendar. If you're not familiar with the calendar and why I think it's cool, go immediately read Ursula Lawrence's excellent [introduction to her French Republican Wall Calendar](https://www.ursulalawrence.com/the-french-republican-wall-calendar).[^1] Her calendar's focus on the natural elements really drew me in, and I really think this part stands out.
@@ -16,7 +14,7 @@ I made a fun little website called [sansculottid.es](https://sansculottid.es) al
 
 This project started after [I used n8n to post comics to Discord every day](https://worstwizard.online/posts/labbing/adventures-in-n8n). After adding Webhooks for Nancy and Heathcliff and a ton of other junk I decided I should really apply a lot more effort to annoying my friends and family with unwanted information related to my special interests. What I really wanted was a daily calendar app, sorta like [@sansculotides](https://twitter.com/sansculotides)'s posts. This was originally a Twitter account, which still exists, but due to that platform's increasing instability there was a bit more impetus to make an alternative. At the time I hadn't really looked too far into Mastodon or the Fediverse and didn't know that [@sansculotides@botsinspace](https://botsin.space/@sansculotides) had already migrated to a more durable platform.
 
-Because of the previous n8n project, I had initially conceived of this project in terms of setting up just an RSS feed with the needed data. I spent forever fighting with python's feedgenerator library before pulling the plug. I eventually figured out how to simply post the information about the current day to a web page. I had been playing with Flask recently and decided to paste things together. Let's be clear, this is babby's first website for sure. What I think is interesting is the infrastructure I used. 
+Because of the previous n8n project, I had initially conceived of this project in terms of setting up just an RSS feed with the needed data. I spent forever fighting with python's feedgenerator library before pulling the plug. I eventually figured out how to simply post the information about the current day to a web page. I had been playing with Flask recently and decided to paste things together. Let's be clear, this is babby's first website for sure. What I think is interesting is the infrastructure I used.
 
 In order to practice with discord.py a bit after its near overhaul, I decided to use it to make a Webhook that scraped the webpage I had made. That was extremely easy. I packaged it into a container image and made a kubernetes CronJob that ran that container on a schedule. When that eventually broke, I decided to make a /data endpoint that just has a json of the object I created. I redesigned the webhook container to just read the json data instead of scraping HTML.
 

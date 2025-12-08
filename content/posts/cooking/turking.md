@@ -8,10 +8,10 @@ tags:
   - thanksgiving
   - bbq
 image: /posts/turkey_pics/two_birds_thighs.jpg
-comments: true
+featured: true
 ---
 # The Long Boring Part Before the Recipe
-Thanksgiving dinner is my favorite thing to cook every year. It really only got big for me when I was 19, my group of friends ended up starting a friendsgiving a tradition that has so far lasted for 15 years. It's been my favorite day of the year every year and as I've grown up and started my own family I've carried that love for that event over to the holiday proper. 
+Thanksgiving dinner is my favorite thing to cook every year. It really only got big for me when I was 19, my group of friends ended up starting a friendsgiving a tradition that has so far lasted for 15 years. It's been my favorite day of the year every year and as I've grown up and started my own family I've carried that love for that event over to the holiday proper.
 
 Now as a total aside, I've long held that when dealing with software for a living wears a hole into your soul. Building intangible, completely logical constructs out of text is pretty neat, but I can't touch my stupid website. I can't play catch with the dumb Godot dice game I poorly made. I yearn for the physical, to see the product of my own hands' labor. I've never been much good at building things, even in the software world where I have more experience, so I instead turn to cooking.
 
@@ -19,12 +19,12 @@ Cooking is great skill to pour yourself into because, as a wise philosopher once
 
 Over the many years of gatherings I've been a party to the cooking of many a fowl, and in 2020 I picked up barbeque as a hobby. I learned on my 22" Weber kettle, which has slowly been modified into a counter height machine with extra cleaning and safety features. It comes with me to many a cookout in a variety of locations for ribs or pulled pork, but most famously this a machine that roasts birds. I have dedicated a non-neglible fraction of my life to the roasting of turkeys, and the result is, to be modest, positively sublime. This is a turkey breast that, when microwaved the next day for leftovers, is still moist and tender. For the past three Thanksgivings I have *forgotten* to make gravy from scratch and had to use packets and it didn't even matter, it was not needed. Some have even referred to my smoked turkey as their personal [Roman Empire](https://knowyourmeme.com/memes/how-often-do-you-think-about-the-roman-empire).
 
-This is all to say: I __love__ making this dish. Over many years of cooking many different fowl many different ways, this is my favorite one. Yes, there are personal reasons why I'm attached to turkey. Yes, this is tuned speciically to the needs of me and my small cooker. I could be writing this to an audience of people who know what they're doing. But they don't need this. 
+This is all to say: I __love__ making this dish. Over many years of cooking many different fowl many different ways, this is my favorite one. Yes, there are personal reasons why I'm attached to turkey. Yes, this is tuned speciically to the needs of me and my small cooker. I could be writing this to an audience of people who know what they're doing. But they don't need this.
 
 I do. I forget shit all the time. This is for me. I need to write another one of these for the stuffing so I remember how to make it year to year.
 
 ![My Glistening Thighs](/posts/turkey_pics/two_birds.jpg "The result of this method for a group using 2 grills")
-# The Actual Recipe Part 
+# The Actual Recipe Part
 ---
 ## Theory
 Space is limited in my 22" kettle and the heat is all going to be coming from one direction. This means we will need to butcher the turkey so that we can both fit into the kettle and also protect it from the more direct heat. With a  22" kettle grill you're probably only going to be able to fit a 12 to 14 pound turkey, even if butchered and positioned well. You do not want to cram this into the grill, it will only make the finished producct that much worse for lack of smoke and glaze.
@@ -62,7 +62,7 @@ Put all the ingredients in a pot and reduce it until it becomes just a little th
 # Praxis
 Light the chimney.[^1] I use a couple straw firestarters and take one or two strands from one and put it on the top of hte chimney. When they catch, the chimney is ready to dump. You don't necessarily want all the coals lit at once, that could cause temps to spike pretty quickly, so having this extra fuel as a cushion and to even out our cooking is nice.
 
-Once the chimney is dumped, position your grate and let it get up to temp. Right around 300F I like to throw on a large handful of applewood chunks, this will be the only wood we apply to our fire today, the rest of the smoke will come naturally from the charcoal, which is why it's imporant to __buy quality lump charcoal__ so that it doesn't sputter, pop or give off nasty smoke. I like [Royal Oak](https://www.royaloak.com/products/hardwood-lump-charcoal/), it's cheap and clean. 
+Once the chimney is dumped, position your grate and let it get up to temp. Right around 300F I like to throw on a large handful of applewood chunks, this will be the only wood we apply to our fire today, the rest of the smoke will come naturally from the charcoal, which is why it's imporant to __buy quality lump charcoal__ so that it doesn't sputter, pop or give off nasty smoke. I like [Royal Oak](https://www.royaloak.com/products/hardwood-lump-charcoal/), it's cheap and clean.
 
 Once the smoke goes from billowy and white to thin and blue, check the temp. Once it's 360 to 370F put the breast on first with the thickest part towards the fire so the thin part doesn't dry out. Try to get it as far from the fire as possible while leaving an inch from the edge of the grill for airflow. Position the leg quarters ahead of the breast, closer to the fire so that the thickest parts are the closest. The dark meat is going to act as a heatshield for the light meat which is more prone to drying out. Dark meat is pretty forgiving, and likes to go to higher temps anyway.
 
@@ -74,7 +74,7 @@ Once the smoke goes from billowy and white to thin and blue, check the temp. Onc
 
 At this point you should put your probe into the deepest part of the breast. At this point, take a best guess, but in about 5 to 10 minutes the temperature gradient on the meat should have begun to form so you can find it a bit easier by just sliding the probe in and out.
 
-Once you find that, and you can adjust that as you cook, it's basically just fire management. Keep the vents managed so that the grill temperature is between about 330-375F and then once the meat is at about 120 degrees start lacquering on thick layers of the glaze. Shake the glaze up well and then mop it on there, I recommend dabbing with a long bristled silicone brush. 
+Once you find that, and you can adjust that as you cook, it's basically just fire management. Keep the vents managed so that the grill temperature is between about 330-375F and then once the meat is at about 120 degrees start lacquering on thick layers of the glaze. Shake the glaze up well and then mop it on there, I recommend dabbing with a long bristled silicone brush.
 
 ![Early Glazing](/posts/turkey_pics/one_bird_early_glazing.jpg "Early into the glazing process, only one layer in and the effect is dramatic.")
 
