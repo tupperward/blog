@@ -19,7 +19,7 @@ params:
   faviconIco: /mage.png
   appletouch: /apple-touch-icon.png
   featured: "true"
-  commento: https://commento.worstwizard.online/js/commento.js
+  #commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
     - identifier: calendar
