@@ -15,8 +15,8 @@ params:
   enableShareOnFediverse: true
   avatar: /mage.png
   logo: /mage.png
-  favicon: /mage.png
-  faviconIco: /mage.png
+  favicon: /favicon.png
+  faviconIco: /favicon.ico
   appletouch: /apple-touch-icon.png
   featured: "true"
   #commento: https://commento.worstwizard.online/js/commento.js
