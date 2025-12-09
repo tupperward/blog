@@ -6,7 +6,7 @@ tags:
   - OGL
   - TTRPG
 image: /posts/pathfinder-image.jpg
-comments: true
+
 draft: true
 ---
 ---
@@ -39,9 +39,9 @@ where contains(name, "Kobold")
 
 1. **There's a Lot of Paperwork** Every time you level up, your proficiency modifier for every one of your skills gets updated by at least 1. This is handy, but it's just one example of increased paperwork during the game, which is more upkeep and you know that's just going to lead to mistakes later.
 
-1. **Core Rulebook Lacks Setting Details.** 
+1. **Core Rulebook Lacks Setting Details.**
 
 
 
 [^1]: The problem I'm currently having is how much I love the [Stamina/Resolve](https://www.aonsrd.com/Rules.aspx?ID=49) system for Starfinder. It's one that I think makes the most sense but unfortunately didn't make it over to PF2e, probably because it was so radically different.
-[^2]: Fuck you, Mike, stop saying slurs. 
+[^2]: Fuck you, Mike, stop saying slurs.

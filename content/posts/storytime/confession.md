@@ -6,14 +6,14 @@ tags:
   - short story
   - religion
 image:
-comments: true
+
 ---
 
 This is a short story I found in my old Blogger profile while I was cleaning things out. The date on this is 3/22/2010, which seems like it checks out to me. I remember writing this after taking some adderall to study and ended up cleaning the whole apartment, writing a single page of legible fiction, and then failing out of community college.
 
 I'm posting this here because I lost it for 13 years. I never thought I'd see it again and I want to keep it so I can go back and wish I had the guts to edit this and make it something worth my time. Presented without further ado: Confessional. I warn you, it's not great.
 
---- 
+---
 
 St. Vincent's is an innocuous modern looking Catholic church down the street from my high school. Coincidentally, it was also directly across the street from my work where I performed my duties as a sickeningly exuberant drug store clerk. Between the St. Vincent youth group almost exclusively going to my school and half the congregation making a quick booze run after morning services I got a bit of exposure to St. Vincent's regulars. Naturally, I'd peeked inside during a few interfaith meetings (through the safety of my own denomination, of course) and once sneaked off campus during lunch for a free meal and sermon. Hell, I even had a friend who was buried there. I think that's why I chose it as my entrance into the Catholic world.
 

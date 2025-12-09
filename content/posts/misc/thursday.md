@@ -6,7 +6,7 @@ tags:
   - baby
   - family
 image:
-comments: true
+
 ---
 
 This post will be periodically updated as we travel throughout the day. I've set it as a draft for now (so this should be erased), but we'll see how that goes.
@@ -17,10 +17,10 @@ I think we're pretty well prepared, but I just don't know how to handle a baby i
 
 ### Update
 
-Ok, that wasn't so bad actually. No delays, no issues, baby was an angel the whole time and he pooped only after we got off the plane. 
+Ok, that wasn't so bad actually. No delays, no issues, baby was an angel the whole time and he pooped only after we got off the plane.
 
-We got to my parent's and my dad left to do a night class, which means no fight right out the gate. Baby is now asleep and doing great. 
+We got to my parent's and my dad left to do a night class, which means no fight right out the gate. Baby is now asleep and doing great.
 
-On to tomorrow, I guess. 
+On to tomorrow, I guess.
 
 [^1]: TM

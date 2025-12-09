@@ -8,10 +8,10 @@ tags:
   - automation
   - adventures in labbing
 image:
-comments: true
+
 ---
 
-It's working! I set up a self-hosted action runner on one of the scrappernetes nodes and made it run as a service. This allowed me to start building out steps using the `doctl` tools after I was able to install that on the node as well. 
+It's working! I set up a self-hosted action runner on one of the scrappernetes nodes and made it run as a service. This allowed me to start building out steps using the `doctl` tools after I was able to install that on the node as well.
 
 This was pretty easy with the Actions Runner documentation.
 
@@ -92,7 +92,7 @@ jobs:
 
       # Run any kubectl commands you want!
       - name: Rollout Pods
-        run: kubectl rollout restart deploy -n blog blog 
+        run: kubectl rollout restart deploy -n blog blog
 ```
 
 This makes building and deploying the blog a breeze. I even included a quick Github trigger in n8n so it knows when I've pushed a new blog post and makes a Toot promoting it with a small snippet of text from the top of the post. Here's what that looks like now.

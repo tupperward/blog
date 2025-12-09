@@ -6,7 +6,7 @@ tags:
   - bio
   - scrappernetes
 image:
-comments: true
+
 ---
 
 Re-reading my very first post makes me realize that perhaps a second introduction is in order, this one a little more concise and simultaneously a little more specific.

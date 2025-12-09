@@ -7,12 +7,12 @@ tags:
   - adventures in labbing
   - gitlab
 image:
-comments: true
+
 ---
 
 Fuck [Jenkins](https://www.jenkins.io/) man.
 
-I do this shit for work, not for fun. I'm already done. The problem I'm running into is specifically around credentials, which I feel should be fairly easy to manage with Kubernetes secrets but apparently not for Jenkins. Fighting with the UI and the settings, I'm just...I think I'm done? I'm going to leave it installed for now because I think it might actually be something I come back around to in a week or so. Maybe on my trip next week if I need some time to myself. Whatever, I'm not getting paid for this right now this is entirely for my own purposes. 
+I do this shit for work, not for fun. I'm already done. The problem I'm running into is specifically around credentials, which I feel should be fairly easy to manage with Kubernetes secrets but apparently not for Jenkins. Fighting with the UI and the settings, I'm just...I think I'm done? I'm going to leave it installed for now because I think it might actually be something I come back around to in a week or so. Maybe on my trip next week if I need some time to myself. Whatever, I'm not getting paid for this right now this is entirely for my own purposes.
 
 Overall the goal is to get CI working so I can simply PR to the `main` branch of the repo containing this blog with each update as I work on it and then the pipeline takes care of everything as it's deployed into kubernetes. I want to get this done by tomorrow evening so I can make quick posts on the road in Texas this weekend.[^1]
 
@@ -31,4 +31,4 @@ These dumb assholes execute from both pods. What stupid bullshit. Ha. Well, spoi
 
 Sorry for the disappointing update. I'm thinking I might try to get a little less technical in future posts, but since I'm in the process of setting all this up it's been a very fun thing to sort of document this along the way. I dunno, since we're going to be in Texas this weekend I expect there to be one or two more posts that are entirely devoid of technical content.
 
-[^1]: We're taking the kiddo down to Texas for his great-granny's 94th birthday. 
+[^1]: We're taking the kiddo down to Texas for his great-granny's 94th birthday.
