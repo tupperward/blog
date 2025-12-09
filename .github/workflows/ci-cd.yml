@@ -29,7 +29,7 @@ env:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: personal-runners
     permissions:
       contents: read
       packages: write
@@ -51,7 +51,7 @@ jobs:
           image_path: ${{ vars.DOCKER_IMAGE }}
   deploy:
     needs: build
-    runs-on: self-hosted
+    runs-on: personal-runners
     permissions:
       contents: read
 
