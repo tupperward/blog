@@ -45,6 +45,14 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           ref: main
 
+      - name: Install doctl
+        uses: digitalocean/action-doctl@v2
+        with:
+          token: ${{ secrets.DO_TOKEN }}
+
+      - name: Log in to DigitalOcean Container Registry
+        run: doctl registry login --expiry-seconds 600
+
       - name: DigitalOcean Docker Image Publish
         uses: ripplr-io/docr-docker-publish@v1
         with:
