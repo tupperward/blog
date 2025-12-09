@@ -13,7 +13,7 @@ on:
 
 jobs:
   apply-changes:
-    runs-on: personal-runners
+    runs-on: blog-runners
     permissions:
       contents: read
 

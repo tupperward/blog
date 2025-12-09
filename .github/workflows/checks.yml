@@ -7,7 +7,7 @@ on:
 
 jobs:
   test:
-    runs-on: personal-runners
+    runs-on: blog-runners
     permissions:
       contents: read
     steps:
