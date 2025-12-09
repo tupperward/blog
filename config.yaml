@@ -18,7 +18,7 @@ params:
   favicon: /favicon.png
   faviconIco: /favicon.ico
   appletouch: /apple-touch-icon.png
-  featured: "true"
+  #featured: "true"
   #commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
