@@ -1,7 +1,8 @@
-FROM hugomods/hugo:base-0.151.0
+FROM hugomods/hugo:base-0.151.0 AS builder
 
 COPY . /src
+RUN hugo --minify
 
-EXPOSE 1313
-
-ENTRYPOINT [ "hugo", "server", "-e", "production", "--bind", "0.0.0.0", "--port", "1313", "--baseURL", "https://worstwizard.online" ]
+FROM nginx:alpine
+COPY --from=builder /src/public /usr/share/nginx/html
+EXPOSE 80
