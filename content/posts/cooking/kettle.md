@@ -8,7 +8,7 @@ tags:
   - own your stuff
 image: /posts/grill_pics/charcoal.jpg
 
-description: "In which I go over why I think the Weber Kettle is the best and most versatile tool for cooking with charcoal you can buy, and how to make it work for you even better."
+#description: "In which I go over why I think the Weber Kettle is the best and most versatile tool for cooking with charcoal you can buy, and how to make it work for you even better."
 ---
 ## An Old Man Reminisces
 The first grill I ever bought was a Weber kettle. Christ, I was young then. Young and stupid. The first time my roommate and I tried to light that thing was on the balcony of our third floor apartment. Central Ohio didn't really get hit hard by hurricane Ike but a storm was definitely rolling in from the east. We set the grill up on the north side of the building and couldn't get the damn thing lit for all the wind, so we used more and more lighter fluid. The lid came into play in short order, thankfully, and we ended up letting the thing rust out on the balcony. I don't know if we were more afraid of the grill or my own asinine stupidity, but it was definitely fear that kept me from using that thing much more.

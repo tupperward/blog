@@ -5,7 +5,7 @@ tags:
   - autism
   - neurodiversity
 image:
-description: "In which child me struggles with probably being autistic without even realizing it."
+#description: "In which child me struggles with probably being autistic without even realizing it."
 #draft: true
 ---
 When I was between 10 and 13, my dad started to raplidly collect a series of dead-end telecommunications technologies. That's not fair, it was only the one IBM beige landline phone with a screen that could tilt to make the basement flourscent lights glare across the cheap plastic a little worse.[^1] But the big thing we got was a dial-up internet connection which I fell in love with immediately, particularly the Yahoo Kidz services which lead me to the rest of Yahoo, including the chats. Precious little wizlet I was, I would hang out in the most mature sounding rooms possible, mainly the default "Philosophy" room.
@@ -16,7 +16,7 @@ But even then, even twenty five years ago, I felt different. I knew I wasn't "no
 
 And the task of the past 3 or 4 years of my life has been to refute the other side of this. I am different. It's just not as bad as I though. I am in fact human, and there are many, many, many people like me. I am a person who is capable of feeling and thought and reason. We're all faking it, I'm just doing it a lot more often than most. I am not fundamentally different[^4], I'm just a guy.  And since I am a person who is capable of pain and grief and loss, I should let myself have those, feel those, struggle with those things more than I have been letting myself in the past. That othering myself as hard as I was isn't actually dealing with my own problems, it's running away from them by means of denying myself my own humanity. And buddy, that does not do well on the ol' soul.
 
-I don't know what I meant to get out of putting this all out here, but it certainly feels better having written it out than not. But maybe it will help someone else. I don't know. Here's to hoping. 
+I don't know what I meant to get out of putting this all out here, but it certainly feels better having written it out than not. But maybe it will help someone else. I don't know. Here's to hoping.
 
 [^1]: It was my Uncle who managed to have a collection of 8 Tracks and LaserDiscs that I treasured growing up.
 [^2]: Of course I don't remember the exact details of what was said, it's 25 years ago now. But I still carry the feeling of it, I think that counts for something.
