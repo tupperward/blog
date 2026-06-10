@@ -35,9 +35,6 @@ jobs:
       # Run any kubectl commands you want!
       - name: Apply Deployment Changes
         run: kubectl apply -f k8s/deployment.yaml
-        
+
       - name: Apply Ingress Changes
         run: kubectl apply -f k8s/ingress.yaml
-
-      - name: Apply Redirect Changes
-        run: kubectl apply -f k8s/redirect-ingress.yaml
