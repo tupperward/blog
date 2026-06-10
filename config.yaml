@@ -1,4 +1,4 @@
-baseURL: https://worstwizard.online
+baseURL: https://folkwizard.online
 languageCode: en-us
 title: The Internet's Shittiest Wizard
 theme: ficturina
@@ -18,8 +18,6 @@ params:
   favicon: /favicon.png
   faviconIco: /favicon.ico
   appletouch: /apple-touch-icon.png
-  #featured: "true"
-  #commento: https://commento.worstwizard.online/js/commento.js
 menu:
   icons:
     - identifier: calendar
@@ -28,17 +26,13 @@ menu:
       weight: 10
     - identifier: bluesky
       name: BlueSky
-      url: https://bsky.app/profile/worstwizard.online
+      url: https://bsky.app/profile/folkwizard.online
       weight: 30
     - identifier: email
       name: Email
-      url: 'mailto:tupperward@worstwizard.online'
+      url: 'mailto:tupperward@folkwizard.online'
       weight: 20
-    - identifier: matrix
-      name: Matrix
-      url: https://matrix.to/#/@tupperward:worstwizard.online
-      weight: 40
     - identifier: utensils
       name: Nyetcooking
-      url: https://worstwizard.online/nyetcooking
+      url: https://folkwizard.online/nyetcooking
       weight: 15

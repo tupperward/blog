@@ -13,10 +13,10 @@ spec:
   ingressClassName: nginx
   tls:
   - hosts: 
-    - worstwizard.online
+    - folkwizard.online
     secretName: big-prod-tls
   rules:
-  - host: worstwizard.online
+  - host: folkwizard.online
     http:
       paths:
       - pathType: Prefix

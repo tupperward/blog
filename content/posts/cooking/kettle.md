@@ -34,7 +34,7 @@ And if we're going for flexibility, there's something to be said for kettle gril
 - smoked salmon and mashed potatoes *together* on a plank
 - had a firepit
 - traveled to a bachelor party in a cabin and made ribs
-- taken the grill to multiple friendsgivings and [smoked turkeys](https://worstwizard.online/posts/cooking/turking/)
+- taken the grill to multiple friendsgivings and [smoked turkeys](https://folkwizard.online/posts/cooking/turking/)
 
 It's a backyard party grill, a smoker, a coal oven, you could even use it as a pizza oven if you wanted to. Got a yard space or alley? The kettle will fit and you can do anything you want with it. The benefit over the kamado style grill is obvious, it doesn't [weigh as much as it costs](https://www.homedepot.com/p/Char-Griller-Akorn-Auto-Kamado-20-inch-Digital-WiFi-Charcoal-Grill-in-Gray-6480/319059752). Once you get one of those suckers it's parked in its spot until it dies or gets stolen.
 

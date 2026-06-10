@@ -10,7 +10,7 @@ featured: true
 ---
 ## TL;DR
 
-I am coming back from the dead to unveil my new page, [Nyetcooking](https://worstwizard.online/nyetcooking), a page I initially created as a means of bypassing their paywall. This is actually a pretty useful little tool, which is a nice change of pace from making a shitty Gematria calculator and a [day calendar](https://sansculottid.es) for a system that's been disused for over two centuries.
+I am coming back from the dead to unveil my new page, [Nyetcooking](https://folkwizard.online/nyetcooking), a page I initially created as a means of bypassing their paywall. This is actually a pretty useful little tool, which is a nice change of pace from making a shitty Gematria calculator and a [day calendar](https://sansculottid.es) for a system that's been disused for over two centuries.
 
 ## The Long Winded Story Before the Recipe
 
