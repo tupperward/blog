@@ -7,16 +7,16 @@ metadata:
     name: blog-ingress
   annotations:
     cert-manager.io/cluster-issuer: prod-issuer
-    acme.cert-manager.io/http01-edit-in-place: "true" 
+    acme.cert-manager.io/http01-edit-in-place: "true"
   #  acme.cert-manager.io/http01-ingress-class: nginx
 spec:
   ingressClassName: nginx
   tls:
-  - hosts: 
-    - folkwizard.online
-    secretName: big-prod-tls
+  - hosts:
+    - worstwizard.online
+    secretName: blog-prod-tls
   rules:
-  - host: folkwizard.online
+  - host: worstwizard.online
     http:
       paths:
       - pathType: Prefix
@@ -24,5 +24,5 @@ spec:
         backend:
           service:
             name: blog
-            port: 
+            port:
               number: 1313

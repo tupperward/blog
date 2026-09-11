@@ -1,4 +1,4 @@
-baseURL: https://folkwizard.online
+baseURL: https://worstwizard.online
 languageCode: en-us
 title: The Internet's Shittiest Wizard
 theme: ficturina
@@ -26,13 +26,13 @@ menu:
       weight: 10
     - identifier: bluesky
       name: BlueSky
-      url: https://bsky.app/profile/folkwizard.online
+      url: https://bsky.app/profile/worstwizard.online
       weight: 30
     - identifier: email
       name: Email
-      url: 'mailto:tupperward@folkwizard.online'
+      url: 'mailto:tupperward@worstwizard.online'
       weight: 20
     - identifier: utensils
       name: Nyetcooking
-      url: https://folkwizard.online/nyetcooking
+      url: https://worstwizard.online/nyetcooking
       weight: 15

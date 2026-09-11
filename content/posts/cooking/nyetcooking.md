@@ -10,7 +10,7 @@ featured: true
 ---
 ## TL;DR
 
-I am coming back from the dead to unveil my new page, [Nyetcooking](https://folkwizard.online/nyetcooking), a page I initially created as a means of bypassing their paywall. This is actually a pretty useful little tool, which is a nice change of pace from making a shitty Gematria calculator and a [day calendar](https://sansculottid.es) for a system that's been disused for over two centuries.
+I am coming back from the dead to unveil my new page, [Nyetcooking](https://worstwizard.online/nyetcooking), a page I initially created as a means of bypassing their paywall. This is actually a pretty useful little tool, which is a nice change of pace from making a shitty Gematria calculator and a [day calendar](https://sansculottid.es) for a system that's been disused for over two centuries.
 
 ## The Long Winded Story Before the Recipe
 
@@ -34,7 +34,7 @@ And this focus on discoverability extends not just to NYTimes but also Allrecipe
 
 The only problem I had at this point was that the original page just cared about NYTimes recipes, so it was able to easily recreate the url to curl and re-cache the data as needed. So I just quickly changed this so that the path for nyetcooking recipes also recreates the full url from the original recipe, giving yourself a way to link back to it if needed. And then I added a printable page and a markdown page for those who also collect digital recipes.
 
-And now it's done! Have fun finding stuff to cook! 
+And now it's done! Have fun finding stuff to cook!
 
 [^1]: It truly does not matter and you absolutely do not care.
 [^2]: Sorta. I mean, if you're vegan or gluten free or something, you probably care more. But for those of use with fewer to no eating restrictions, not really.
